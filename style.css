@@ -1,0 +1,15 @@
+.container {
+        text-align: center;
+        color: white;
+        background-color: teal;
+}
+
+.container1 {
+        text-align: center;
+}
+
+.container2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
